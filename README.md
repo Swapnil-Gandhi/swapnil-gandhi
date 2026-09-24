@@ -9,6 +9,10 @@ My broad research interests include distributed systems and cloud computing – 
 
 For my most up-to-date CV, please see my [website](https://swapnilgandhi.com/).
 
+## 📰 News
+
+- September 2026: 🎉 [PACE](https://github.com/swapnil-Gandhi/pace) has been accepted to **NeurIPS 2026**!
+
 <!--
 **Swapnil-Gandhi/swapnil-gandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
