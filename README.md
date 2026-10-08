@@ -11,7 +11,8 @@ For my most up-to-date CV, please see my [website](https://swapnilgandhi.com/).
 
 ## 📰 News
 
-- September 2026: 🎉 [PACE](https://github.com/swapnil-Gandhi/pace) has been accepted to **NeurIPS 2026**!
+- October 2026: 🎉 [PACE](https://github.com/swapnil-Gandhi/pace) has been accepted to **NeurIPS 2026**!
+- September 2026: 📄 Check out our new work, Purlin: Separating Orchestration from the Datapath of Collectives! [Code](https://github.com/purlin-project/purlin).
 
 <!--
 **Swapnil-Gandhi/swapnil-gandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
