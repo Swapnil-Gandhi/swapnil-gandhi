@@ -3,7 +3,7 @@
 [![Google-Scholar](https://img.shields.io/badge/google%20scholar-black?&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=lFAXJhUAAAAJ&hl=en&authuser=1)](https://scholar.google.com/citations?user=rxQBKTUAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cylee-cs/)](https://in.linkedin.com/in/gandhiswapnil)
 
-I'm a final-year Ph.D. candidate at Stanford studying Computer Science.
+I recently defended my Ph.D. in Computer Science at Stanford, where I worked with Prof. Christos Kozyrakis on software systems for generative AI at scale.
 
 My broad research interests include distributed systems and cloud computing – in particular, I am interested in the system-side problems associated with learning, deploying, and operationalizing generative models at scale.
 
@@ -11,6 +11,7 @@ For my most up-to-date CV, please see my [website](https://swapnilgandhi.com/).
 
 ## 📰 News
 
+- November 2026: 🎓 Successfully defended my PhD thesis, Adapting to Perturbations: Software Systems for Reliable and Efficient Generative AI at Scale! 
 - October 2026: 🎉 [PACE](https://github.com/swapnil-Gandhi/pace) has been accepted to **NeurIPS 2026**!
 - September 2026: 📄 Check out our new work, Purlin: Separating Orchestration from the Datapath of Collectives! [Code](https://github.com/purlin-project/purlin).
 
