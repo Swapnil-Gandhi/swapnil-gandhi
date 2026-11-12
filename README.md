@@ -11,7 +11,7 @@ For my most up-to-date CV, please see my [website](https://swapnilgandhi.com/).
 
 ## 📰 News
 
-- November 2026: 🎓 Successfully defended my PhD thesis, Adapting to Perturbations: Software Systems for Reliable and Efficient Generative AI at Scale! 
+- November 2026: 🎓 Successfully defended my Ph.D. thesis, "Adapting to Perturbations: Software Systems for Reliable and Efficient Generative AI at Scale"! 
 - October 2026: 🎉 [PACE](https://github.com/swapnil-Gandhi/pace) has been accepted to **NeurIPS 2026**!
 - September 2026: 📄 Check out our new work, Purlin: Separating Orchestration from the Datapath of Collectives! [Code](https://github.com/purlin-project/purlin).
 
